@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/news1</item>
+        <item>@drawable/news2</item>
+        <item>@drawable/news3</item>
+        <item>@drawable/news4</item>
+        <item>@drawable/news5</item>
+        <item>@drawable/news6</item>
+        <item>@drawable/news7</item>
+        <item>@drawable/news</item>
+        <item>@drawable/news9</item>
+        <item>@drawable/news10</item>
+    </array>
+</resources>

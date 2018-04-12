@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="llMarLeft">5dp</dimen>
+    <dimen name="marRight">10dp</dimen>
+    <dimen name="imgSize">120dp</dimen>
+    <dimen name="txtSize">20sp</dimen>
+</resources>
